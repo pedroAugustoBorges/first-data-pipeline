@@ -1,182 +1,186 @@
-2026-02-06 20:27:15,389 - INFO = Start of program and logger
-2026-02-06 20:27:15,390 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:27:15,704 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:27:15,705 - INFO = Database connection closed
-2026-02-06 20:27:15,705 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:27:22,778 - INFO = Start of program and logger
-2026-02-06 20:27:22,779 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:27:22,848 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:27:22,848 - INFO = Database connection closed
-2026-02-06 20:27:22,849 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:29:19,924 - INFO = Start of program and logger
-2026-02-06 20:29:19,924 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:29:20,002 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:29:20,002 - INFO = Database connection closed
-2026-02-06 20:29:20,003 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:29:20,051 - INFO = Processing member selfdev_members
-2026-02-06 20:30:02,012 - INFO = Start of program and logger
-2026-02-06 20:30:02,012 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:30:02,078 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:30:02,078 - INFO = Database connection closed
-2026-02-06 20:30:02,079 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:30:03,985 - INFO = Start of program and logger
-2026-02-06 20:30:03,985 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:30:04,064 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:30:04,064 - INFO = Database connection closed
-2026-02-06 20:30:04,065 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:30:11,459 - INFO = Start of program and logger
-2026-02-06 20:30:11,460 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:30:11,660 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:30:11,661 - INFO = Database connection closed
-2026-02-06 20:30:11,662 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:31:28,259 - INFO = Start of program and logger
-2026-02-06 20:31:28,260 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:31:28,333 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:31:28,334 - INFO = Database connection closed
-2026-02-06 20:31:28,335 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:32:47,495 - INFO = Start of program and logger
-2026-02-06 20:32:47,495 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:32:47,575 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:32:47,575 - INFO = Database connection closed
-2026-02-06 20:32:47,576 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:32:59,128 - INFO = Start of program and logger
-2026-02-06 20:32:59,129 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:32:59,216 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:32:59,217 - INFO = Database connection closed
-2026-02-06 20:32:59,217 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:33:08,765 - INFO = Start of program and logger
-2026-02-06 20:33:08,765 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:33:08,867 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:33:08,868 - INFO = Database connection closed
-2026-02-06 20:33:08,869 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:33:26,046 - INFO = Start of program and logger
-2026-02-06 20:33:26,047 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:33:26,128 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:33:26,129 - INFO = Database connection closed
-2026-02-06 20:33:26,129 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:33:48,728 - INFO = Start of program and logger
-2026-02-06 20:33:48,728 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:33:48,804 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:33:48,805 - INFO = Database connection closed
-2026-02-06 20:33:48,807 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:34:17,075 - INFO = Start of program and logger
-2026-02-06 20:34:17,076 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:34:17,136 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:34:17,137 - INFO = Database connection closed
-2026-02-06 20:34:17,138 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:34:53,539 - INFO = Start of program and logger
-2026-02-06 20:34:53,539 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:34:53,631 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:34:53,632 - INFO = Database connection closed
-2026-02-06 20:34:53,633 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:35:33,373 - INFO = Start of program and logger
-2026-02-06 20:35:33,374 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:35:33,437 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:35:33,438 - INFO = Database connection closed
-2026-02-06 20:35:33,440 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:37:00,587 - INFO = Start of program and logger
-2026-02-06 20:37:00,588 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:37:00,709 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:37:00,710 - INFO = Database connection closed
-2026-02-06 20:37:00,710 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:48:20,159 - INFO = Start of program and logger
-2026-02-06 20:48:20,160 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:48:20,333 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:48:20,334 - INFO = Database connection closed
-2026-02-06 20:48:20,334 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:48:20,429 - INFO = Executed query 
-    CREATE TABLE IF NOT EXISTS members(
-        id SERIAL PRIMARY KEY,
-        name VARCHAR(255) NOT NULL,
-        discord_id VARCHAR(255) NOT NULL,
-        coding_motivattion VARCHAR(255) NOT NULL
-    )
-    
-2026-02-06 20:48:20,472 - ERROR = column "coding_motivation" of relation "members" does not exist
-LINE 2:     INSERT INTO members (name, discord_id, coding_motivation...
-                                                   ^
+2026-02-07 12:38:10,692 - INFO = Start of program and logger
+2026-02-07 12:38:10,693 - INFO = Connecting to the PostgreSQL
+2026-02-07 12:38:10,907 - ERROR = Connection was wrong function missing required argument 'query' (pos 1)
+2026-02-07 12:38:10,908 - INFO = Database connection closed
+2026-02-07 12:40:45,971 - INFO = Start of program and logger
+2026-02-07 12:40:45,972 - INFO = Connecting to the PostgreSQL
+2026-02-07 12:40:46,201 - ERROR = Connection was wrong function missing required argument 'query' (pos 1)
+2026-02-07 12:40:46,201 - INFO = Database connection closed
+2026-02-07 12:42:09,170 - INFO = Start of program and logger
+2026-02-07 12:42:09,170 - INFO = Connecting to the PostgreSQL
+2026-02-07 12:42:09,279 - ERROR = Connection was wrong function missing required argument 'query' (pos 1)
+2026-02-07 12:42:09,281 - INFO = Database connection closed
+2026-02-07 12:43:05,131 - INFO = Start of program and logger
+2026-02-07 12:43:05,132 - INFO = Connecting to the PostgreSQL
+2026-02-07 12:43:05,251 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-07 12:43:05,252 - INFO = Database connection closed
+2026-02-07 12:49:54,309 - INFO = Start of program and logger
+2026-02-07 12:49:54,310 - INFO = Connecting to the PostgreSQL
+2026-02-07 12:49:54,501 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-07 12:49:54,502 - INFO = Database connection closed
+2026-02-07 18:31:59,490 - INFO = Start of program and logger
+2026-02-07 18:31:59,491 - INFO = Connecting to the PostgreSQL
+2026-02-07 18:32:03,609 - ERROR = Connection was wrong connection to server at "localhost" (::1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused (0x0000274D/10061)
+	Is the server running on that host and accepting TCP/IP connections?
 
-2026-02-06 20:48:20,479 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+2026-02-07 18:33:26,415 - INFO = Start of program and logger
+2026-02-07 18:33:26,415 - INFO = Connecting to the PostgreSQL
+2026-02-07 18:33:26,629 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-07 18:33:26,630 - INFO = Database connection closed
+2026-02-07 18:37:08,563 - INFO = Start of program and logger
+2026-02-07 18:37:08,563 - INFO = Connecting to the PostgreSQL
+2026-02-07 18:37:08,685 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-07 18:37:08,685 - INFO = Database connection closed
+2026-02-07 18:37:08,686 - INFO = Creating connection...
+2026-02-07 18:37:15,899 - INFO = Start of program and logger
+2026-02-07 18:37:15,900 - INFO = Connecting to the PostgreSQL
+2026-02-07 18:37:15,977 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-07 18:37:15,977 - INFO = Database connection closed
+2026-02-07 18:37:15,978 - INFO = Creating connection...
+2026-02-07 18:37:16,048 - ERROR = Error while inserting member {'name': 'Julio', 'discord_name': 'blazertherazer12#0001', 'reason_to_code': 'he wants to shift energy from gaming to something blazeful'} - function takes at most 2 arguments (4 given)
+2026-02-07 18:37:16,050 - ERROR = Error while inserting member {'name': 'oetzi', 'discord_name': 'ÖtziOfficial#5666', 'reason_to_code': 'he wants to be the best fortnite player'} - function takes at most 2 arguments (4 given)
+2026-02-07 18:37:16,051 - ERROR = Error while inserting member {'name': '10act', 'discord_name': '10act#9342', 'reason_to_code': 'he wants to trash talk others and to be a trader'} - function takes at most 2 arguments (4 given)
+2026-02-07 18:37:16,051 - ERROR = Error while inserting member {'name': 'Mvx', 'discord_name': 'mvxxvII#4359', 'reason_to_code': 'he wants to get the latest gadgets and custom keyboards'} - function takes at most 2 arguments (4 given)
+2026-02-07 18:37:16,052 - ERROR = Error while inserting member {'name': 'Jonny', 'discord_name': 'Jonney#7007', 'reason_to_code': 'he to work at the beach in Vietnam'} - function takes at most 2 arguments (4 given)
+2026-02-07 18:39:01,242 - INFO = Start of program and logger
+2026-02-07 18:39:01,242 - INFO = Connecting to the PostgreSQL
+2026-02-07 18:39:01,341 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-07 18:39:01,342 - INFO = Database connection closed
+2026-02-07 18:39:01,343 - INFO = Creating connection...
+2026-02-07 18:39:01,392 - ERROR = Error while inserting member {'name': 'Julio', 'discord_name': 'blazertherazer12#0001', 'reason_to_code': 'he wants to shift energy from gaming to something blazeful'} - syntax error at or near "INSERTO"
+LINE 2:     INSERTO INTO MEMBER(name, discord_id, motivation_member)
+            ^
 
-2026-02-06 20:48:20,481 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+2026-02-07 18:39:01,394 - ERROR = Error while inserting member {'name': 'oetzi', 'discord_name': 'ÖtziOfficial#5666', 'reason_to_code': 'he wants to be the best fortnite player'} - syntax error at or near "INSERTO"
+LINE 2:     INSERTO INTO MEMBER(name, discord_id, motivation_member)
+            ^
 
-2026-02-06 20:48:20,489 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+2026-02-07 18:39:01,395 - ERROR = Error while inserting member {'name': '10act', 'discord_name': '10act#9342', 'reason_to_code': 'he wants to trash talk others and to be a trader'} - syntax error at or near "INSERTO"
+LINE 2:     INSERTO INTO MEMBER(name, discord_id, motivation_member)
+            ^
 
-2026-02-06 20:48:20,490 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+2026-02-07 18:39:01,397 - ERROR = Error while inserting member {'name': 'Mvx', 'discord_name': 'mvxxvII#4359', 'reason_to_code': 'he wants to get the latest gadgets and custom keyboards'} - syntax error at or near "INSERTO"
+LINE 2:     INSERTO INTO MEMBER(name, discord_id, motivation_member)
+            ^
 
-2026-02-06 20:49:16,509 - INFO = Start of program and logger
-2026-02-06 20:49:16,510 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:49:16,604 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:49:16,604 - INFO = Database connection closed
-2026-02-06 20:49:16,605 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:49:16,658 - INFO = Executed query 
-    CREATE TABLE IF NOT EXISTS members(
-        id SERIAL PRIMARY KEY,
-        name VARCHAR(255) NOT NULL,
-        discord_id VARCHAR(255) NOT NULL,
-        coding_motivattion VARCHAR(255) NOT NULL
-    )
-    
-2026-02-06 20:50:05,641 - INFO = Start of program and logger
-2026-02-06 20:50:05,641 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:50:05,771 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:50:05,771 - INFO = Database connection closed
-2026-02-06 20:50:05,772 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:50:05,971 - INFO = Executed query 
-    CREATE TABLE IF NOT EXISTS members(
-        id SERIAL PRIMARY KEY,
-        name VARCHAR(255) NOT NULL,
-        discord_id VARCHAR(255) NOT NULL,
-        coding_motivattion VARCHAR(255) NOT NULL
-    )
-    
-2026-02-06 20:50:05,981 - ERROR = column "coding_motivation" of relation "members" does not exist
-LINE 2:     INSERT INTO members (name, discord_id, coding_motivation...
-                                                   ^
+2026-02-07 18:39:01,398 - ERROR = Error while inserting member {'name': 'Jonny', 'discord_name': 'Jonney#7007', 'reason_to_code': 'he to work at the beach in Vietnam'} - syntax error at or near "INSERTO"
+LINE 2:     INSERTO INTO MEMBER(name, discord_id, motivation_member)
+            ^
 
-2026-02-06 20:50:05,984 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+2026-02-07 18:39:10,817 - INFO = Start of program and logger
+2026-02-07 18:39:10,818 - INFO = Connecting to the PostgreSQL
+2026-02-07 18:39:10,882 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-07 18:39:10,882 - INFO = Database connection closed
+2026-02-07 18:39:10,883 - INFO = Creating connection...
+2026-02-07 18:39:10,935 - ERROR = Error while inserting member {'name': 'Julio', 'discord_name': 'blazertherazer12#0001', 'reason_to_code': 'he wants to shift energy from gaming to something blazeful'} - relation "member" does not exist
+LINE 2:     INSERT INTO MEMBER(name, discord_id, motivation_member)
+                        ^
 
-2026-02-06 20:50:05,986 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+2026-02-07 18:39:10,936 - ERROR = Error while inserting member {'name': 'oetzi', 'discord_name': 'ÖtziOfficial#5666', 'reason_to_code': 'he wants to be the best fortnite player'} - relation "member" does not exist
+LINE 2:     INSERT INTO MEMBER(name, discord_id, motivation_member)
+                        ^
 
-2026-02-06 20:50:05,988 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+2026-02-07 18:39:10,937 - ERROR = Error while inserting member {'name': '10act', 'discord_name': '10act#9342', 'reason_to_code': 'he wants to trash talk others and to be a trader'} - relation "member" does not exist
+LINE 2:     INSERT INTO MEMBER(name, discord_id, motivation_member)
+                        ^
 
-2026-02-06 20:50:05,990 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+2026-02-07 18:39:10,943 - ERROR = Error while inserting member {'name': 'Mvx', 'discord_name': 'mvxxvII#4359', 'reason_to_code': 'he wants to get the latest gadgets and custom keyboards'} - relation "member" does not exist
+LINE 2:     INSERT INTO MEMBER(name, discord_id, motivation_member)
+                        ^
 
-2026-02-06 20:50:32,203 - INFO = Start of program and logger
-2026-02-06 20:50:32,204 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:50:32,342 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:50:32,342 - INFO = Database connection closed
-2026-02-06 20:50:32,343 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:50:32,407 - INFO = Executed query 
-    CREATE TABLE IF NOT EXISTS members(
-        id SERIAL PRIMARY KEY,
-        name VARCHAR(255) NOT NULL,
-        discord_id VARCHAR(255) NOT NULL,
-        coding_motivation VARCHAR(255) NOT NULL
-    )
-    
-2026-02-06 20:50:32,411 - ERROR = column "coding_motivation" of relation "members" does not exist
-LINE 2:     INSERT INTO members (name, discord_id, coding_motivation...
-                                                   ^
+2026-02-07 18:39:10,944 - ERROR = Error while inserting member {'name': 'Jonny', 'discord_name': 'Jonney#7007', 'reason_to_code': 'he to work at the beach in Vietnam'} - relation "member" does not exist
+LINE 2:     INSERT INTO MEMBER(name, discord_id, motivation_member)
+                        ^
 
-2026-02-06 20:50:32,412 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+2026-02-07 18:39:48,452 - INFO = Start of program and logger
+2026-02-07 18:39:48,452 - INFO = Connecting to the PostgreSQL
+2026-02-07 18:39:48,529 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-07 18:39:48,530 - INFO = Database connection closed
+2026-02-07 18:39:48,531 - INFO = Creating connection...
+2026-02-07 18:39:48,615 - ERROR = Error while inserting member {'name': 'Julio', 'discord_name': 'blazertherazer12#0001', 'reason_to_code': 'he wants to shift energy from gaming to something blazeful'} - column "motivation_member" of relation "members" does not exist
+LINE 2:     INSERT INTO MEMBERS(name, discord_id, motivation_member)
+                                                  ^
 
-2026-02-06 20:50:32,414 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+2026-02-07 18:39:48,617 - ERROR = Error while inserting member {'name': 'oetzi', 'discord_name': 'ÖtziOfficial#5666', 'reason_to_code': 'he wants to be the best fortnite player'} - column "motivation_member" of relation "members" does not exist
+LINE 2:     INSERT INTO MEMBERS(name, discord_id, motivation_member)
+                                                  ^
 
-2026-02-06 20:50:32,415 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+2026-02-07 18:39:48,619 - ERROR = Error while inserting member {'name': '10act', 'discord_name': '10act#9342', 'reason_to_code': 'he wants to trash talk others and to be a trader'} - column "motivation_member" of relation "members" does not exist
+LINE 2:     INSERT INTO MEMBERS(name, discord_id, motivation_member)
+                                                  ^
 
-2026-02-06 20:50:32,416 - ERROR = current transaction is aborted, commands ignored until end of transaction block
+2026-02-07 18:39:48,620 - ERROR = Error while inserting member {'name': 'Mvx', 'discord_name': 'mvxxvII#4359', 'reason_to_code': 'he wants to get the latest gadgets and custom keyboards'} - column "motivation_member" of relation "members" does not exist
+LINE 2:     INSERT INTO MEMBERS(name, discord_id, motivation_member)
+                                                  ^
 
-2026-02-06 20:50:50,102 - INFO = Start of program and logger
-2026-02-06 20:50:50,102 - INFO = Connecting to the PostgreeSQL database
-2026-02-06 20:50:50,272 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
-2026-02-06 20:50:50,272 - INFO = Database connection closed
-2026-02-06 20:50:50,273 - INFO = Connecting to the PostgreSQL database
-2026-02-06 20:50:50,375 - INFO = Executed query 
-    CREATE TABLE IF NOT EXISTS members(
-        id SERIAL PRIMARY KEY,
-        name VARCHAR(255) NOT NULL,
-        discord_id VARCHAR(255) NOT NULL,
-        coding_motivation VARCHAR(255) NOT NULL
-    )
-    
+2026-02-07 18:39:48,626 - ERROR = Error while inserting member {'name': 'Jonny', 'discord_name': 'Jonney#7007', 'reason_to_code': 'he to work at the beach in Vietnam'} - column "motivation_member" of relation "members" does not exist
+LINE 2:     INSERT INTO MEMBERS(name, discord_id, motivation_member)
+                                                  ^
+
+2026-02-07 18:40:43,847 - INFO = Start of program and logger
+2026-02-07 18:40:43,848 - INFO = Connecting to the PostgreSQL
+2026-02-07 18:40:43,947 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-07 18:40:43,948 - INFO = Database connection closed
+2026-02-07 18:40:43,949 - INFO = Creating connection...
+2026-02-07 18:40:44,022 - ERROR = Error while inserting member {'name': 'Julio', 'discord_name': 'blazertherazer12#0001', 'reason_to_code': 'he wants to shift energy from gaming to something blazeful'} - connection already closed
+2026-02-07 18:40:44,023 - ERROR = Error while inserting member {'name': 'oetzi', 'discord_name': 'ÖtziOfficial#5666', 'reason_to_code': 'he wants to be the best fortnite player'} - connection already closed
+2026-02-07 18:40:44,023 - ERROR = Error while inserting member {'name': '10act', 'discord_name': '10act#9342', 'reason_to_code': 'he wants to trash talk others and to be a trader'} - connection already closed
+2026-02-07 18:40:44,023 - ERROR = Error while inserting member {'name': 'Mvx', 'discord_name': 'mvxxvII#4359', 'reason_to_code': 'he wants to get the latest gadgets and custom keyboards'} - connection already closed
+2026-02-07 18:40:44,024 - ERROR = Error while inserting member {'name': 'Jonny', 'discord_name': 'Jonney#7007', 'reason_to_code': 'he to work at the beach in Vietnam'} - connection already closed
+2026-02-07 18:42:09,396 - INFO = Start of program and logger
+2026-02-07 18:42:09,397 - INFO = Connecting to the PostgreSQL
+2026-02-07 18:42:09,491 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-07 18:42:09,492 - INFO = Database connection closed
+2026-02-07 18:42:09,493 - INFO = Creating connection...
+2026-02-07 18:42:09,576 - ERROR = Error while inserting member {'name': 'Julio', 'discord_name': 'blazertherazer12#0001', 'reason_to_code': 'he wants to shift energy from gaming to something blazeful'} - column "motivation_member" of relation "members" does not exist
+LINE 2:     INSERT INTO MEMBERS(name, discord_id, motivation_member)
+                                                  ^
+
+2026-02-07 18:42:09,577 - ERROR = Error while inserting member {'name': 'oetzi', 'discord_name': 'ÖtziOfficial#5666', 'reason_to_code': 'he wants to be the best fortnite player'} - column "motivation_member" of relation "members" does not exist
+LINE 2:     INSERT INTO MEMBERS(name, discord_id, motivation_member)
+                                                  ^
+
+2026-02-07 18:42:09,578 - ERROR = Error while inserting member {'name': '10act', 'discord_name': '10act#9342', 'reason_to_code': 'he wants to trash talk others and to be a trader'} - column "motivation_member" of relation "members" does not exist
+LINE 2:     INSERT INTO MEMBERS(name, discord_id, motivation_member)
+                                                  ^
+
+2026-02-07 18:42:09,579 - ERROR = Error while inserting member {'name': 'Mvx', 'discord_name': 'mvxxvII#4359', 'reason_to_code': 'he wants to get the latest gadgets and custom keyboards'} - column "motivation_member" of relation "members" does not exist
+LINE 2:     INSERT INTO MEMBERS(name, discord_id, motivation_member)
+                                                  ^
+
+2026-02-07 18:42:09,581 - ERROR = Error while inserting member {'name': 'Jonny', 'discord_name': 'Jonney#7007', 'reason_to_code': 'he to work at the beach in Vietnam'} - column "motivation_member" of relation "members" does not exist
+LINE 2:     INSERT INTO MEMBERS(name, discord_id, motivation_member)
+                                                  ^
+
+2026-02-07 18:43:30,926 - INFO = Start of program and logger
+2026-02-07 18:43:30,926 - INFO = Connecting to the PostgreSQL
+2026-02-07 18:43:31,021 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-07 18:43:31,022 - INFO = Database connection closed
+2026-02-07 18:43:31,023 - INFO = Creating connection...
+2026-02-07 18:44:42,790 - INFO = Start of program and logger
+2026-02-07 18:44:42,790 - INFO = Connecting to the PostgreSQL
+2026-02-07 18:44:42,882 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-07 18:44:42,882 - INFO = Database connection closed
+2026-02-07 18:44:42,883 - INFO = Creating connection...
+2026-02-07 18:44:43,011 - ERROR = Error while inserting member {'name': 'Julio', 'discord_name': 'blazertherazer12#0001', 'reason_to_code': 'he wants to shift energy from gaming to something blazeful'} - duplicate key value violates unique constraint "members_discord_id_key"
+DETAIL:  Key (discord_id)=(blazertherazer12#0001) already exists.
+
+2026-02-07 18:44:43,018 - ERROR = Error while inserting member {'name': 'oetzi', 'discord_name': 'ÖtziOfficial#5666', 'reason_to_code': 'he wants to be the best fortnite player'} - duplicate key value violates unique constraint "members_discord_id_key"
+DETAIL:  Key (discord_id)=(ÖtziOfficial#5666) already exists.
+
+2026-02-07 18:44:43,024 - ERROR = Error while inserting member {'name': '10act', 'discord_name': '10act#9342', 'reason_to_code': 'he wants to trash talk others and to be a trader'} - duplicate key value violates unique constraint "members_discord_id_key"
+DETAIL:  Key (discord_id)=(10act#9342) already exists.
+
+2026-02-07 18:44:43,028 - ERROR = Error while inserting member {'name': 'Mvx', 'discord_name': 'mvxxvII#4359', 'reason_to_code': 'he wants to get the latest gadgets and custom keyboards'} - duplicate key value violates unique constraint "members_discord_id_key"
+DETAIL:  Key (discord_id)=(mvxxvII#4359) already exists.
+
+2026-02-07 18:44:43,038 - ERROR = Error while inserting member {'name': 'Jonny', 'discord_name': 'Jonney#7007', 'reason_to_code': 'he to work at the beach in Vietnam'} - duplicate key value violates unique constraint "members_discord_id_key"
+DETAIL:  Key (discord_id)=(Jonney#7007) already exists.
+
+2026-02-07 18:48:54,247 - INFO = Start of program and logger
+2026-02-07 18:48:54,248 - INFO = Connecting to the PostgreSQL
+2026-02-07 18:48:54,393 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-07 18:48:54,393 - INFO = Database connection closed
+2026-02-07 18:48:54,394 - INFO = Creating connection...

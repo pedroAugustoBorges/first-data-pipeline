@@ -39,7 +39,7 @@ def psql_connection_test():
         
         cur = conn.cursor()
         
-        cur.execute('SELECT version()')
+        cur.execute(query= 'SELECT version()')
         db_version = cur.fetchone()
         
         logging.info(db_version)

@@ -1,6 +1,6 @@
 import json
 import logging
-from utilities.helper_psql import insert_member
+from db.repository import insert_member
 
 def get_selfdev_members(psql_conn):
     with open('data/raw/data.json') as json_file:
