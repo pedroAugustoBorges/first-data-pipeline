@@ -17,8 +17,7 @@ def insert_member(psql_conn, member):
         psql_conn.autocommit = True
         
         curr.execute(query, (member['name'], member['discord_name'], member['reason_to_code']))
-        
-        curr.close()
+
         
     except(Exception, psycopg2.DatabaseError) as error:
         logging.error(f"Error while inserting member {member} - {error}")
