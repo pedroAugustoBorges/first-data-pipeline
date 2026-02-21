@@ -1,0 +1,6 @@
+CREATE TABLE UF NOT EXISTS MEMBERS(
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    discord_id VARCHAR (255),
+    motivation_member VARCHAR(255) NOT NULL
+    )
