@@ -28,4 +28,6 @@ def random_date(limit):
     start = start_date()
     end = end_date(start)
     
-    return np.random.choice(pd.date_range(start= start, end = end), size = limit)
+    dates = np.random.choice(pd.date_range(start = start, end = end), size = limit)
+    
+    return [(pd.Timestamp(d).to_pydatetime(), ) for d in dates]

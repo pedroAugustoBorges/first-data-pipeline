@@ -1,0 +1,1 @@
+ALTER TABLE members RENAME datetime_creatd TO datetime_created

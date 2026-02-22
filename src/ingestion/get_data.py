@@ -1,15 +1,10 @@
 import json
 import logging
-from db.repository import insert_member
 
-def get_selfdev_members(psql_conn):
+
+def get_selfdev_members():
     with open('data/raw/data.json') as json_file:
         data = json.load(json_file)
+        return data['selfdev_members']
         
-        for members in data:
-            for member in data[members]:
-                print(f'Processing member {member['name']}')
-                insert_member(psql_conn, member)
-                
-            
             

@@ -250,3 +250,455 @@ DETAIL:  Key (discord_id)=(Jonney#7007) already exists.
 2026-02-12 19:56:57,451 - INFO = Updating table
 2026-02-12 19:56:57,468 - INFO = Table changed
 2026-02-12 19:56:57,505 - INFO = Table dropped
+2026-02-21 12:40:06,087 - INFO = Start of program and logger
+2026-02-21 12:40:06,088 - INFO = Running c:\Users\00001\OneDrive\Documentos\projects\data engineer\level1\datacamp course etl x elt\src\pipeline\run_schema.py
+2026-02-21 12:40:32,921 - INFO = Start of program and logger
+2026-02-21 12:40:32,921 - INFO = Running ['c:', 'Users', '00001', 'OneDrive', 'Documentos', 'projects', 'data engineer', 'level1', 'datacamp course etl x elt', 'src', 'pipeline', 'run_schema.py']
+2026-02-21 12:40:54,411 - INFO = Start of program and logger
+2026-02-21 12:40:54,411 - INFO = Running []
+2026-02-21 12:40:57,337 - INFO = Start of program and logger
+2026-02-21 12:40:57,337 - INFO = Running ['c:']
+2026-02-21 12:41:18,279 - INFO = Start of program and logger
+2026-02-21 12:41:18,279 - INFO = Running run_schema.py
+2026-02-21 13:10:39,960 - INFO = Start of program and logger
+2026-02-21 13:10:39,962 - INFO = Running run_schema.py
+2026-02-21 13:12:20,478 - INFO = Start of program and logger
+2026-02-21 13:12:20,483 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:12:20,779 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:12:20,780 - INFO = Database connection closed
+2026-02-21 13:12:20,782 - INFO = Creating connection...
+2026-02-21 13:12:20,956 - INFO = Running run_schema.py
+2026-02-21 13:16:29,008 - INFO = Start of program and logger
+2026-02-21 13:16:29,011 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:16:29,194 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:16:29,195 - INFO = Database connection closed
+2026-02-21 13:16:29,196 - INFO = Creating connection...
+2026-02-21 13:16:29,246 - INFO = Running run_schema.py
+2026-02-21 13:17:52,138 - INFO = Start of program and logger
+2026-02-21 13:17:59,624 - INFO = Start of program and logger
+2026-02-21 13:17:59,624 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:17:59,732 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:17:59,732 - INFO = Database connection closed
+2026-02-21 13:17:59,733 - INFO = Creating connection...
+2026-02-21 13:17:59,784 - INFO = Running run_schema.py
+2026-02-21 13:17:59,855 - INFO = Applying migration 001_create_table.sql
+2026-02-21 13:17:59,858 - ERROR = Migration 001 failed syntax error at or near "NOT"
+LINE 1: CREATE TABLE UF NOT EXISTS MEMBERS(
+                        ^
+
+2026-02-21 13:20:47,989 - INFO = Start of program and logger
+2026-02-21 13:20:47,989 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:20:48,301 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:20:48,302 - INFO = Database connection closed
+2026-02-21 13:20:48,302 - INFO = Creating connection...
+2026-02-21 13:20:48,363 - INFO = Running run_schema.py
+2026-02-21 13:20:48,408 - INFO = Applying migration 001_create_table.sql
+2026-02-21 13:20:48,636 - ERROR = Migration 001 failed syntax error at or near "%"
+LINE 3:                             VALUES (%s, %s)
+                                            ^
+
+2026-02-21 13:29:43,606 - INFO = Start of program and logger
+2026-02-21 13:29:43,607 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:29:43,837 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:29:43,838 - INFO = Database connection closed
+2026-02-21 13:29:43,838 - INFO = Creating connection...
+2026-02-21 13:29:43,919 - INFO = Running run_schema.py
+2026-02-21 13:29:44,081 - INFO = Applying migration 001_create_table.sql
+2026-02-21 13:29:44,169 - ERROR = Migration 001 failed function takes at most 2 arguments (3 given)
+2026-02-21 13:30:14,822 - INFO = Start of program and logger
+2026-02-21 13:30:14,822 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:30:14,930 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:30:14,930 - INFO = Database connection closed
+2026-02-21 13:30:14,931 - INFO = Creating connection...
+2026-02-21 13:30:14,988 - INFO = Running run_schema.py
+2026-02-21 13:30:15,065 - INFO = Applying migration 001_create_table.sql
+2026-02-21 13:30:15,123 - INFO = Migration 001 applied successfully
+2026-02-21 13:30:15,126 - INFO = Applying migration 002_add_loaded_at_column.sql.sql
+2026-02-21 13:30:15,136 - INFO = Migration 002 applied successfully
+2026-02-21 13:30:15,137 - INFO = Applying migration 003_alter_datatype_motivation.sql
+2026-02-21 13:30:15,144 - ERROR = Migration 003 failed syntax error at or near "if"
+LINE 1: ALTER TABLE members if NOT EXISTS
+                            ^
+
+2026-02-21 13:32:08,268 - INFO = Start of program and logger
+2026-02-21 13:32:08,268 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:32:08,432 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:32:08,433 - INFO = Database connection closed
+2026-02-21 13:32:08,434 - INFO = Creating connection...
+2026-02-21 13:32:08,491 - INFO = Running run_schema.py
+2026-02-21 13:32:08,585 - INFO = Applying migration 001_create_table.sql
+2026-02-21 13:32:08,637 - INFO = Migration 001 applied successfully
+2026-02-21 13:32:08,638 - INFO = Applying migration 002_add_loaded_at_column.sql.sql
+2026-02-21 13:32:08,650 - INFO = Migration 002 applied successfully
+2026-02-21 13:32:08,652 - INFO = Applying migration 003_alter_datatype_motivation.sql
+2026-02-21 13:32:08,660 - ERROR = Migration 003 failed syntax error at or near "IF"
+LINE 1: ALTER TABLE members IF NOT EXISTS
+                            ^
+
+2026-02-21 13:34:16,535 - INFO = Start of program and logger
+2026-02-21 13:34:16,536 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:34:16,706 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:34:16,707 - INFO = Database connection closed
+2026-02-21 13:34:16,707 - INFO = Creating connection...
+2026-02-21 13:34:16,783 - INFO = Running run_schema.py
+2026-02-21 13:34:16,808 - INFO = Applying migration 003_alter_datatype_motivation.sql
+2026-02-21 13:34:16,812 - ERROR = Migration 003 failed syntax error at or near "EXISTS"
+LINE 2: ADD CONSTRAINT IF NOT EXISTS motivation_member_uk UNIQUE (mo...
+                              ^
+
+2026-02-21 13:37:03,085 - INFO = Start of program and logger
+2026-02-21 13:37:03,085 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:37:03,261 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:37:03,261 - INFO = Database connection closed
+2026-02-21 13:37:03,261 - INFO = Creating connection...
+2026-02-21 13:37:03,307 - INFO = Running run_schema.py
+2026-02-21 13:37:03,353 - INFO = Applying migration 003_alter_datatype_motivation.sql
+2026-02-21 13:37:03,355 - ERROR = Migration 003 failed syntax error at or near "ALTER"
+LINE 2: ALTER TABLE members ADD CONSTRAINT motivation_member_uk;
+        ^
+
+2026-02-21 13:37:30,963 - INFO = Start of program and logger
+2026-02-21 13:37:30,964 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:37:31,124 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:37:31,124 - INFO = Database connection closed
+2026-02-21 13:37:31,125 - INFO = Creating connection...
+2026-02-21 13:37:31,260 - INFO = Running run_schema.py
+2026-02-21 13:37:31,652 - INFO = Applying migration 001_create_table.sql
+2026-02-21 13:37:31,716 - INFO = Migration 001 applied successfully
+2026-02-21 13:37:31,717 - INFO = Applying migration 002_add_loaded_at_column.sql.sql
+2026-02-21 13:37:31,725 - INFO = Migration 002 applied successfully
+2026-02-21 13:37:31,726 - INFO = Applying migration 003_alter_datatype_motivation.sql
+2026-02-21 13:37:31,729 - ERROR = Migration 003 failed syntax error at or near ";"
+LINE 2: ALTER TABLE members ADD CONSTRAINT motivation_member_uk;
+                                                               ^
+
+2026-02-21 13:38:06,047 - INFO = Start of program and logger
+2026-02-21 13:38:06,047 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:38:06,139 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:38:06,139 - INFO = Database connection closed
+2026-02-21 13:38:06,140 - INFO = Creating connection...
+2026-02-21 13:38:06,189 - INFO = Running run_schema.py
+2026-02-21 13:38:06,239 - INFO = Applying migration 001_create_table.sql
+2026-02-21 13:38:06,279 - INFO = Migration 001 applied successfully
+2026-02-21 13:38:06,280 - INFO = Applying migration 002_add_loaded_at_column.sql.sql
+2026-02-21 13:38:06,288 - INFO = Migration 002 applied successfully
+2026-02-21 13:38:06,288 - INFO = Applying migration 003_alter_datatype_motivation.sql
+2026-02-21 13:38:06,290 - ERROR = Migration 003 failed syntax error at end of input
+LINE 2: ALTER TABLE members ADD CONSTRAINT motivation_member_uk
+                                                               ^
+
+2026-02-21 13:39:14,364 - INFO = Start of program and logger
+2026-02-21 13:39:14,365 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:39:14,681 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:39:14,682 - INFO = Database connection closed
+2026-02-21 13:39:14,682 - INFO = Creating connection...
+2026-02-21 13:39:14,772 - INFO = Running run_schema.py
+2026-02-21 13:39:14,851 - INFO = Applying migration 001_create_table.sql
+2026-02-21 13:39:14,896 - INFO = Migration 001 applied successfully
+2026-02-21 13:39:14,897 - INFO = Applying migration 002_add_loaded_at_column.sql.sql
+2026-02-21 13:39:14,906 - INFO = Migration 002 applied successfully
+2026-02-21 13:39:14,907 - INFO = Applying migration 003_alter_datatype_motivation.sql
+2026-02-21 13:39:14,912 - ERROR = Migration 003 failed syntax error at or near ";"
+LINE 2: ...ER TABLE members ADD CONSTRAINT motivation_member_uk UNIQUE;
+                                                                      ^
+
+2026-02-21 13:40:13,342 - INFO = Start of program and logger
+2026-02-21 13:40:13,343 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:40:13,595 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:40:13,596 - INFO = Database connection closed
+2026-02-21 13:40:13,596 - INFO = Creating connection...
+2026-02-21 13:40:13,671 - INFO = Running run_schema.py
+2026-02-21 13:40:13,866 - INFO = Applying migration 001_create_table.sql
+2026-02-21 13:40:13,951 - INFO = Migration 001 applied successfully
+2026-02-21 13:40:13,952 - INFO = Applying migration 002_add_loaded_at_column.sql.sql
+2026-02-21 13:40:13,961 - INFO = Migration 002 applied successfully
+2026-02-21 13:40:13,962 - INFO = Applying migration 003_alter_datatype_motivation.sql
+2026-02-21 13:40:13,966 - ERROR = Migration 003 failed syntax error at end of input
+LINE 2: ...TER TABLE members ADD CONSTRAINT motivation_member_uk UNIQUE
+                                                                       ^
+
+2026-02-21 13:41:38,948 - INFO = Start of program and logger
+2026-02-21 13:41:38,950 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:41:39,496 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:41:39,497 - INFO = Database connection closed
+2026-02-21 13:41:39,497 - INFO = Creating connection...
+2026-02-21 13:41:39,593 - INFO = Running run_schema.py
+2026-02-21 13:41:39,846 - INFO = Applying migration 001_create_table.sql
+2026-02-21 13:41:39,955 - INFO = Migration 001 applied successfully
+2026-02-21 13:41:39,956 - INFO = Applying migration 002_add_loaded_at_column.sql.sql
+2026-02-21 13:41:39,967 - INFO = Migration 002 applied successfully
+2026-02-21 13:41:39,968 - INFO = Applying migration 003_alter_datatype_motivation.sql
+2026-02-21 13:41:40,005 - INFO = Migration 003 applied successfully
+2026-02-21 13:41:40,005 - INFO = Migration process completed
+                 Versions loaded: set() from <map object at 0x000001C528CD9280>
+2026-02-21 13:46:34,180 - INFO = Start of program and logger
+2026-02-21 13:46:34,181 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:46:34,432 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:46:34,432 - INFO = Database connection closed
+2026-02-21 13:46:34,433 - INFO = Creating connection...
+2026-02-21 13:46:34,493 - INFO = Running run_schema.py
+2026-02-21 13:46:34,553 - INFO = Migration process completed
+                 Versions loaded: {'003', '002', '001'} from [WindowsPath('C:/Users/00001/OneDrive/Documentos/projects/data engineer/level1/datacamp course etl x elt/migrations/001_create_table.sql'), WindowsPath('C:/Users/00001/OneDrive/Documentos/projects/data engineer/level1/datacamp course etl x elt/migrations/002_add_loaded_at_column.sql.sql'), WindowsPath('C:/Users/00001/OneDrive/Documentos/projects/data engineer/level1/datacamp course etl x elt/migrations/003_alter_datatype_motivation.sql')]
+2026-02-21 13:48:01,325 - INFO = Start of program and logger
+2026-02-21 13:48:01,326 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:48:01,448 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:48:01,449 - INFO = Database connection closed
+2026-02-21 13:48:01,450 - INFO = Creating connection...
+2026-02-21 13:48:01,518 - INFO = Running run_schema.py
+2026-02-21 13:48:01,540 - INFO = Migration process completed
+                 Versions loaded: {'003', '001', '002'} from [WindowsPath('C:/Users/00001/OneDrive/Documentos/projects/data engineer/level1/datacamp course etl x elt/migrations/001_create_table.sql'), WindowsPath('C:/Users/00001/OneDrive/Documentos/projects/data engineer/level1/datacamp course etl x elt/migrations/002_add_loaded_at_column.sql.sql'), WindowsPath('C:/Users/00001/OneDrive/Documentos/projects/data engineer/level1/datacamp course etl x elt/migrations/003_alter_datatype_motivation.sql')]
+2026-02-21 13:48:12,749 - INFO = Start of program and logger
+2026-02-21 13:48:12,749 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:48:12,810 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:48:12,811 - INFO = Database connection closed
+2026-02-21 13:48:12,812 - INFO = Creating connection...
+2026-02-21 13:48:12,868 - INFO = Running run_schema.py
+2026-02-21 13:48:12,881 - INFO = Migration process completed
+                 Versions loaded: {'003', '002', '001'} from [WindowsPath('C:/Users/00001/OneDrive/Documentos/projects/data engineer/level1/datacamp course etl x elt/migrations/001_create_table.sql'), WindowsPath('C:/Users/00001/OneDrive/Documentos/projects/data engineer/level1/datacamp course etl x elt/migrations/002_add_loaded_at_column.sql.sql'), WindowsPath('C:/Users/00001/OneDrive/Documentos/projects/data engineer/level1/datacamp course etl x elt/migrations/003_alter_datatype_motivation.sql')]
+2026-02-21 13:49:07,615 - INFO = Start of program and logger
+2026-02-21 13:49:07,616 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:49:07,697 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:49:07,698 - INFO = Database connection closed
+2026-02-21 13:49:07,699 - INFO = Creating connection...
+2026-02-21 13:49:07,785 - INFO = Running run_schema.py
+2026-02-21 13:49:07,827 - INFO = Migration process completed
+                 Versions loaded: ['001', '002', '003'] from [WindowsPath('C:/Users/00001/OneDrive/Documentos/projects/data engineer/level1/datacamp course etl x elt/migrations/001_create_table.sql'), WindowsPath('C:/Users/00001/OneDrive/Documentos/projects/data engineer/level1/datacamp course etl x elt/migrations/002_add_loaded_at_column.sql.sql'), WindowsPath('C:/Users/00001/OneDrive/Documentos/projects/data engineer/level1/datacamp course etl x elt/migrations/003_alter_datatype_motivation.sql')]
+2026-02-21 13:49:54,896 - INFO = Start of program and logger
+2026-02-21 13:49:54,897 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:49:54,995 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:49:54,996 - INFO = Database connection closed
+2026-02-21 13:49:54,996 - INFO = Creating connection...
+2026-02-21 13:49:55,089 - INFO = Running run_schema.py
+2026-02-21 13:50:31,199 - INFO = Start of program and logger
+2026-02-21 13:50:31,200 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:50:31,321 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:50:31,322 - INFO = Database connection closed
+2026-02-21 13:50:31,323 - INFO = Creating connection...
+2026-02-21 13:50:31,405 - INFO = Running run_schema.py
+2026-02-21 13:50:31,428 - INFO = Migration process completed
+                 Versions loaded: ['001', '002', '003'] from [['C:', 'Users', '00001', 'OneDrive', 'Documentos', 'projects', 'data engineer', 'level1', 'datacamp course etl x elt', 'migrations', '001_create_table.sql'], ['C:', 'Users', '00001', 'OneDrive', 'Documentos', 'projects', 'data engineer', 'level1', 'datacamp course etl x elt', 'migrations', '002_add_loaded_at_column.sql.sql'], ['C:', 'Users', '00001', 'OneDrive', 'Documentos', 'projects', 'data engineer', 'level1', 'datacamp course etl x elt', 'migrations', '003_alter_datatype_motivation.sql']]
+2026-02-21 13:50:44,249 - INFO = Start of program and logger
+2026-02-21 13:50:44,250 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:50:44,329 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:50:44,329 - INFO = Database connection closed
+2026-02-21 13:50:44,330 - INFO = Creating connection...
+2026-02-21 13:50:44,404 - INFO = Running run_schema.py
+2026-02-21 13:50:44,419 - INFO = Migration process completed
+                 Versions loaded: ['003', '002', '001'] from ['001_create_table.sql', '002_add_loaded_at_column.sql.sql', '003_alter_datatype_motivation.sql']
+2026-02-21 13:50:54,929 - INFO = Start of program and logger
+2026-02-21 13:50:54,929 - INFO = Connecting to the PostgreSQL
+2026-02-21 13:50:54,989 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-21 13:50:54,990 - INFO = Database connection closed
+2026-02-21 13:50:54,990 - INFO = Creating connection...
+2026-02-21 13:50:55,042 - INFO = Running run_schema.py
+2026-02-22 11:22:23,987 - INFO = Start of program and logger
+2026-02-22 11:22:23,988 - INFO = Connecting to the PostgreSQL
+2026-02-22 11:22:24,349 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 11:22:24,350 - INFO = Database connection closed
+2026-02-22 11:22:24,351 - INFO = Creating connection...
+2026-02-22 11:22:24,413 - INFO = Running run_schema.py
+2026-02-22 11:22:24,477 - INFO = Migration process completed
+                 Versions loaded: ['002', '003', '001'] from ['001_create_table.sql', '002_add_loaded_at_column.sql.sql', '003_alter_datatype_motivation.sql']
+2026-02-22 11:26:04,630 - INFO = Start of program and logger
+2026-02-22 11:26:04,630 - INFO = Connecting to the PostgreSQL
+2026-02-22 11:26:04,755 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 11:26:04,755 - INFO = Database connection closed
+2026-02-22 11:26:04,755 - INFO = Creating connection...
+2026-02-22 11:26:04,794 - ERROR = Error while inserting member selfdev_members - string indices must be integers, not 'str'
+2026-02-22 11:26:29,758 - INFO = Start of program and logger
+2026-02-22 11:26:29,759 - INFO = Connecting to the PostgreSQL
+2026-02-22 11:26:29,810 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 11:26:29,810 - INFO = Database connection closed
+2026-02-22 11:26:29,810 - INFO = Creating connection...
+2026-02-22 11:26:29,841 - ERROR = Error while inserting member selfdev_members - string indices must be integers, not 'str'
+2026-02-22 11:28:10,704 - INFO = Start of program and logger
+2026-02-22 11:28:10,704 - INFO = Connecting to the PostgreSQL
+2026-02-22 11:28:10,784 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 11:28:10,785 - INFO = Database connection closed
+2026-02-22 11:28:10,786 - INFO = Creating connection...
+2026-02-22 11:28:10,831 - ERROR = Error while inserting member selfdev_members - string indices must be integers, not 'str'
+2026-02-22 11:29:14,306 - INFO = Start of program and logger
+2026-02-22 11:29:14,306 - INFO = Connecting to the PostgreSQL
+2026-02-22 11:29:14,359 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 11:29:14,360 - INFO = Database connection closed
+2026-02-22 11:29:14,360 - INFO = Creating connection...
+2026-02-22 11:29:14,399 - ERROR = Error while inserting member {'name': 'Pedringo game plays', 'discord_name': 'blazertherazer12#0001', 'reason_to_code': 'he wants to be the better triathlete'} - there is no unique or exclusion constraint matching the ON CONFLICT specification
+
+2026-02-22 11:29:14,401 - ERROR = Error while inserting member {'name': 'oetzi', 'discord_name': 'ÖtziOfficial#5666', 'reason_to_code': 'he wants to be the best fortnite player'} - there is no unique or exclusion constraint matching the ON CONFLICT specification
+
+2026-02-22 11:29:14,402 - ERROR = Error while inserting member {'name': 'Tainazinha', 'discord_name': '10act#9342', 'reason_to_code': 'he wants to trash talk others and to be a trader'} - there is no unique or exclusion constraint matching the ON CONFLICT specification
+
+2026-02-22 11:29:14,404 - ERROR = Error while inserting member {'name': 'Mvx', 'discord_name': 'mvxxvII#4359', 'reason_to_code': 'he wants to get the latest gadgets and custom keyboards'} - there is no unique or exclusion constraint matching the ON CONFLICT specification
+
+2026-02-22 11:29:14,407 - ERROR = Error while inserting member {'name': 'Jonny', 'discord_name': 'Jonney#7007', 'reason_to_code': 'he to work at the beach in Vietnam'} - there is no unique or exclusion constraint matching the ON CONFLICT specification
+
+2026-02-22 11:32:19,659 - INFO = Start of program and logger
+2026-02-22 11:32:19,660 - INFO = Connecting to the PostgreSQL
+2026-02-22 11:32:19,844 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 11:32:19,845 - INFO = Database connection closed
+2026-02-22 11:32:19,846 - INFO = Creating connection...
+2026-02-22 11:32:19,911 - INFO = Running run_schema.py
+2026-02-22 11:36:29,739 - INFO = Start of program and logger
+2026-02-22 11:36:29,740 - INFO = Connecting to the PostgreSQL
+2026-02-22 11:36:29,849 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 11:36:29,850 - INFO = Database connection closed
+2026-02-22 11:36:29,850 - INFO = Creating connection...
+2026-02-22 11:36:37,693 - INFO = Start of program and logger
+2026-02-22 11:36:37,694 - INFO = Connecting to the PostgreSQL
+2026-02-22 11:36:37,745 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 11:36:37,746 - INFO = Database connection closed
+2026-02-22 11:36:37,747 - INFO = Creating connection...
+2026-02-22 11:36:45,922 - INFO = Start of program and logger
+2026-02-22 11:36:45,923 - INFO = Connecting to the PostgreSQL
+2026-02-22 11:36:46,017 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 11:36:46,017 - INFO = Database connection closed
+2026-02-22 11:36:46,017 - INFO = Creating connection...
+2026-02-22 11:36:46,173 - INFO = Running run_schema.py
+2026-02-22 11:36:46,229 - INFO = Applying migration 004_fix_constraint_error.sql
+2026-02-22 11:36:46,393 - INFO = Migration 004 applied successfully
+2026-02-22 11:36:46,393 - INFO = Migration process completed
+                 Versions loaded: ['003', '002', '001'] from ['001_create_table.sql', '002_add_loaded_at_column.sql.sql', '003_alter_datatype_motivation.sql', '004_fix_constraint_error.sql']
+2026-02-22 11:36:46,395 - ERROR = Error while inserting member {'name': 'Pedringo game plays', 'discord_name': 'blazertherazer12#0001', 'reason_to_code': 'he wants to be the better triathlete'} - connection already closed
+2026-02-22 11:36:46,395 - ERROR = Error while inserting member {'name': 'oetzi', 'discord_name': 'ÖtziOfficial#5666', 'reason_to_code': 'he wants to be the best fortnite player'} - connection already closed
+2026-02-22 11:36:46,396 - ERROR = Error while inserting member {'name': 'Tainazinha', 'discord_name': '10act#9342', 'reason_to_code': 'he wants to trash talk others and to be a trader'} - connection already closed
+2026-02-22 11:36:46,397 - ERROR = Error while inserting member {'name': 'Mvx', 'discord_name': 'mvxxvII#4359', 'reason_to_code': 'he wants to get the latest gadgets and custom keyboards'} - connection already closed
+2026-02-22 11:36:46,397 - ERROR = Error while inserting member {'name': 'Jonny', 'discord_name': 'Jonney#7007', 'reason_to_code': 'he to work at the beach in Vietnam'} - connection already closed
+2026-02-22 11:40:08,161 - INFO = Start of program and logger
+2026-02-22 11:40:08,161 - INFO = Connecting to the PostgreSQL
+2026-02-22 11:40:08,232 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 11:40:08,233 - INFO = Database connection closed
+2026-02-22 11:40:08,233 - INFO = Creating connection...
+2026-02-22 11:40:08,273 - INFO = Running run_schema.py
+2026-02-22 11:40:08,302 - INFO = Migration process completed
+                 Versions loaded: ['004', '001', '003', '002'] from ['001_create_table.sql', '002_add_loaded_at_column.sql.sql', '003_alter_datatype_motivation.sql', '004_fix_constraint_error.sql']
+2026-02-22 11:40:08,303 - ERROR = Error while inserting member {'name': 'Pedringo game plays', 'discord_name': 'blazertherazer12#0001', 'reason_to_code': 'he wants to be the better triathlete'} - set_session cannot be used inside a transaction
+2026-02-22 11:40:08,305 - ERROR = Error while inserting member {'name': 'oetzi', 'discord_name': 'ÖtziOfficial#5666', 'reason_to_code': 'he wants to be the best fortnite player'} - set_session cannot be used inside a transaction
+2026-02-22 11:40:08,306 - ERROR = Error while inserting member {'name': 'Tainazinha', 'discord_name': '10act#9342', 'reason_to_code': 'he wants to trash talk others and to be a trader'} - set_session cannot be used inside a transaction
+2026-02-22 11:40:08,307 - ERROR = Error while inserting member {'name': 'Mvx', 'discord_name': 'mvxxvII#4359', 'reason_to_code': 'he wants to get the latest gadgets and custom keyboards'} - set_session cannot be used inside a transaction
+2026-02-22 11:40:08,307 - ERROR = Error while inserting member {'name': 'Jonny', 'discord_name': 'Jonney#7007', 'reason_to_code': 'he to work at the beach in Vietnam'} - set_session cannot be used inside a transaction
+2026-02-22 11:44:01,434 - INFO = Start of program and logger
+2026-02-22 11:44:01,434 - INFO = Connecting to the PostgreSQL
+2026-02-22 11:44:01,499 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 11:44:01,499 - INFO = Database connection closed
+2026-02-22 11:44:01,500 - INFO = Creating connection...
+2026-02-22 11:44:01,560 - INFO = Running run_schema.py
+2026-02-22 11:44:01,589 - INFO = Migration process completed
+                 Versions loaded: ['001', '002', '004', '003'] from ['001_create_table.sql', '002_add_loaded_at_column.sql.sql', '003_alter_datatype_motivation.sql', '004_fix_constraint_error.sql']
+2026-02-22 11:44:01,591 - ERROR = Error while inserting member {'name': 'Pedringo game plays', 'discord_name': 'blazertherazer12#0001', 'reason_to_code': 'he wants to be the better triathlete'} - 'builtin_function_or_method' object does not support the context manager protocol (missed __exit__ method)
+2026-02-22 11:44:01,592 - ERROR = Error while inserting member {'name': 'oetzi', 'discord_name': 'ÖtziOfficial#5666', 'reason_to_code': 'he wants to be the best fortnite player'} - 'builtin_function_or_method' object does not support the context manager protocol (missed __exit__ method)
+2026-02-22 11:44:01,593 - ERROR = Error while inserting member {'name': 'Tainazinha', 'discord_name': '10act#9342', 'reason_to_code': 'he wants to trash talk others and to be a trader'} - 'builtin_function_or_method' object does not support the context manager protocol (missed __exit__ method)
+2026-02-22 11:44:01,595 - ERROR = Error while inserting member {'name': 'Mvx', 'discord_name': 'mvxxvII#4359', 'reason_to_code': 'he wants to get the latest gadgets and custom keyboards'} - 'builtin_function_or_method' object does not support the context manager protocol (missed __exit__ method)
+2026-02-22 11:44:01,596 - ERROR = Error while inserting member {'name': 'Jonny', 'discord_name': 'Jonney#7007', 'reason_to_code': 'he to work at the beach in Vietnam'} - 'builtin_function_or_method' object does not support the context manager protocol (missed __exit__ method)
+2026-02-22 11:44:42,258 - INFO = Start of program and logger
+2026-02-22 11:44:42,259 - INFO = Connecting to the PostgreSQL
+2026-02-22 11:44:42,372 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 11:44:42,372 - INFO = Database connection closed
+2026-02-22 11:44:42,373 - INFO = Creating connection...
+2026-02-22 11:44:42,488 - INFO = Running run_schema.py
+2026-02-22 11:44:42,502 - INFO = Migration process completed
+                 Versions loaded: ['003', '002', '001', '004'] from ['001_create_table.sql', '002_add_loaded_at_column.sql.sql', '003_alter_datatype_motivation.sql', '004_fix_constraint_error.sql']
+2026-02-22 11:45:20,999 - INFO = Start of program and logger
+2026-02-22 11:45:21,000 - INFO = Connecting to the PostgreSQL
+2026-02-22 11:45:21,059 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 11:45:21,059 - INFO = Database connection closed
+2026-02-22 11:45:21,061 - INFO = Creating connection...
+2026-02-22 11:45:21,120 - INFO = Running run_schema.py
+2026-02-22 11:45:21,132 - INFO = Migration process completed
+                 Versions loaded: ['004', '003', '001', '002'] from ['001_create_table.sql', '002_add_loaded_at_column.sql.sql', '003_alter_datatype_motivation.sql', '004_fix_constraint_error.sql']
+2026-02-22 11:45:21,140 - INFO = Members inserted
+2026-02-22 11:45:21,141 - INFO = Members inserted
+2026-02-22 11:45:21,143 - INFO = Members inserted
+2026-02-22 11:45:21,144 - INFO = Members inserted
+2026-02-22 11:45:21,146 - INFO = Members inserted
+2026-02-22 11:45:34,392 - INFO = Start of program and logger
+2026-02-22 11:45:34,392 - INFO = Connecting to the PostgreSQL
+2026-02-22 11:45:34,450 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 11:45:34,450 - INFO = Database connection closed
+2026-02-22 11:45:34,451 - INFO = Creating connection...
+2026-02-22 11:45:34,498 - INFO = Running run_schema.py
+2026-02-22 11:45:34,509 - INFO = Migration process completed
+                 Versions loaded: ['003', '002', '004', '001'] from ['001_create_table.sql', '002_add_loaded_at_column.sql.sql', '003_alter_datatype_motivation.sql', '004_fix_constraint_error.sql']
+2026-02-22 11:45:34,517 - INFO = Members inserted
+2026-02-22 11:46:30,642 - INFO = Start of program and logger
+2026-02-22 11:46:30,643 - INFO = Connecting to the PostgreSQL
+2026-02-22 11:46:30,739 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 11:46:30,740 - INFO = Database connection closed
+2026-02-22 11:46:30,740 - INFO = Creating connection...
+2026-02-22 11:46:30,809 - INFO = Running run_schema.py
+2026-02-22 11:46:30,820 - INFO = Migration process completed
+                 Versions loaded: ['002', '004', '003', '001'] from ['001_create_table.sql', '002_add_loaded_at_column.sql.sql', '003_alter_datatype_motivation.sql', '004_fix_constraint_error.sql']
+2026-02-22 11:46:30,832 - INFO = Members inserted
+2026-02-22 13:02:19,975 - INFO = Start of program and logger
+2026-02-22 13:02:19,975 - INFO = Connecting to the PostgreSQL
+2026-02-22 13:02:20,162 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 13:02:20,163 - INFO = Database connection closed
+2026-02-22 13:02:20,163 - INFO = Creating connection...
+2026-02-22 13:02:20,247 - ERROR = Pipeline failed: column "datetime_created" does not exist
+LINE 4:     WHERE datetime_created is NULL
+                  ^
+HINT:  Perhaps you meant to reference the column "members.datetime_creatd".
+
+2026-02-22 13:02:37,646 - INFO = Start of program and logger
+2026-02-22 13:02:37,647 - INFO = Connecting to the PostgreSQL
+2026-02-22 13:02:37,738 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 13:02:37,738 - INFO = Database connection closed
+2026-02-22 13:02:37,739 - INFO = Creating connection...
+2026-02-22 13:02:37,842 - ERROR = Pipeline failed: column members.datetime_created does not exist
+LINE 4:     WHERE members.datetime_created is NULL
+                  ^
+HINT:  Perhaps you meant to reference the column "members.datetime_creatd".
+
+2026-02-22 13:03:22,237 - INFO = Start of program and logger
+2026-02-22 13:03:22,238 - INFO = Connecting to the PostgreSQL
+2026-02-22 13:03:22,321 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 13:03:22,322 - INFO = Database connection closed
+2026-02-22 13:03:22,322 - INFO = Creating connection...
+2026-02-22 13:03:22,393 - ERROR = Pipeline failed: column members.datetime_created does not exist
+LINE 4:     WHERE members.datetime_created is NULL
+                  ^
+HINT:  Perhaps you meant to reference the column "members.datetime_creatd".
+
+2026-02-22 13:03:44,321 - INFO = Start of program and logger
+2026-02-22 13:03:44,321 - INFO = Connecting to the PostgreSQL
+2026-02-22 13:03:44,416 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 13:03:44,417 - INFO = Database connection closed
+2026-02-22 13:03:44,418 - INFO = Creating connection...
+2026-02-22 13:03:44,477 - INFO = Running run_schema.py
+2026-02-22 13:03:44,517 - ERROR = Pipeline failed: Migration 002 was modified after being applied
+2026-02-22 13:05:05,719 - INFO = Start of program and logger
+2026-02-22 13:05:05,720 - INFO = Connecting to the PostgreSQL
+2026-02-22 13:05:05,837 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 13:05:05,837 - INFO = Database connection closed
+2026-02-22 13:05:05,838 - INFO = Creating connection...
+2026-02-22 13:05:05,888 - INFO = Running run_schema.py
+2026-02-22 13:05:05,913 - ERROR = Pipeline failed: Migration 002 was modified after being applied
+2026-02-22 13:05:20,095 - INFO = Start of program and logger
+2026-02-22 13:05:20,096 - INFO = Connecting to the PostgreSQL
+2026-02-22 13:05:20,147 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 13:05:20,148 - INFO = Database connection closed
+2026-02-22 13:05:20,148 - INFO = Creating connection...
+2026-02-22 13:05:20,207 - INFO = Running run_schema.py
+2026-02-22 13:05:20,225 - INFO = Applying migration 006_fix_datetime_name.sql
+2026-02-22 13:05:20,271 - INFO = Migration 006 applied successfully
+2026-02-22 13:05:20,272 - INFO = Migration process completed
+                 Versions loaded: ['004', '001', '003', '002'] from ['001_create_table.sql', '002_add_loaded_at_column.sql.sql', '003_alter_datatype_motivation.sql', '004_fix_constraint_error.sql', '006_fix_datetime_name.sql']
+2026-02-22 13:23:09,099 - INFO = Start of program and logger
+2026-02-22 13:23:09,099 - INFO = Connecting to the PostgreSQL
+2026-02-22 13:23:09,281 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 13:23:09,282 - INFO = Database connection closed
+2026-02-22 13:23:09,282 - INFO = Creating connection...
+2026-02-22 13:23:09,377 - INFO = Running run_schema.py
+2026-02-22 13:23:09,410 - INFO = Migration process completed
+                 Versions loaded: ['001', '002', '003', '004', '006'] from ['001_create_table.sql', '002_add_loaded_at_column.sql.sql', '003_alter_datatype_motivation.sql', '004_fix_constraint_error.sql', '006_fix_datetime_name.sql']
+2026-02-22 13:23:09,442 - INFO = Members inserted
+2026-02-22 13:23:09,475 - INFO = Loaded_at values inserted
+2026-02-22 13:25:26,639 - INFO = Start of program and logger
+2026-02-22 13:25:26,640 - INFO = Connecting to the PostgreSQL
+2026-02-22 13:25:26,784 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 13:25:26,785 - INFO = Database connection closed
+2026-02-22 13:25:26,785 - INFO = Creating connection...
+2026-02-22 13:25:26,836 - INFO = Running run_schema.py
+2026-02-22 13:25:26,853 - INFO = Migration process completed
+                 Versions loaded: ['006', '002', '004', '003', '001'] from ['001_create_table.sql', '002_add_loaded_at_column.sql.sql', '003_alter_datatype_motivation.sql', '004_fix_constraint_error.sql', '006_fix_datetime_name.sql']
+2026-02-22 13:25:26,864 - INFO = Members inserted
+2026-02-22 13:25:26,876 - INFO = Loaded_at values inserted
