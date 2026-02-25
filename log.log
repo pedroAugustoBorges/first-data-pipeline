@@ -702,3 +702,56 @@ HINT:  Perhaps you meant to reference the column "members.datetime_creatd".
                  Versions loaded: ['006', '002', '004', '003', '001'] from ['001_create_table.sql', '002_add_loaded_at_column.sql.sql', '003_alter_datatype_motivation.sql', '004_fix_constraint_error.sql', '006_fix_datetime_name.sql']
 2026-02-22 13:25:26,864 - INFO = Members inserted
 2026-02-22 13:25:26,876 - INFO = Loaded_at values inserted
+2026-02-22 13:28:19,859 - INFO = Start of program and logger
+2026-02-22 13:28:19,860 - INFO = Connecting to the PostgreSQL
+2026-02-22 13:28:19,999 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 13:28:19,999 - INFO = Database connection closed
+2026-02-22 13:28:20,000 - INFO = Creating connection...
+2026-02-22 13:28:20,050 - INFO = Running run_schema.py
+2026-02-22 13:28:20,074 - INFO = Applying migration 005_fix_datetime_name.sql
+2026-02-22 13:28:20,088 - ERROR = Migration 005 failed column "datetime_creatd" does not exist
+
+2026-02-22 13:28:20,089 - ERROR = Pipeline failed: column "datetime_creatd" does not exist
+
+2026-02-22 13:28:39,584 - INFO = Start of program and logger
+2026-02-22 13:28:39,585 - INFO = Connecting to the PostgreSQL
+2026-02-22 13:28:39,643 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 13:28:39,643 - INFO = Database connection closed
+2026-02-22 13:28:39,644 - INFO = Creating connection...
+2026-02-22 13:28:39,724 - INFO = Running run_schema.py
+2026-02-22 13:28:39,738 - INFO = Applying migration 005_fix_datetime_name.sql
+2026-02-22 13:28:39,742 - ERROR = Migration 005 failed column "datetime_creatd" does not exist
+
+2026-02-22 13:28:39,742 - ERROR = Pipeline failed: column "datetime_creatd" does not exist
+
+2026-02-22 13:28:56,936 - INFO = Start of program and logger
+2026-02-22 13:28:56,936 - INFO = Connecting to the PostgreSQL
+2026-02-22 13:28:57,004 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 13:28:57,004 - INFO = Database connection closed
+2026-02-22 13:28:57,004 - INFO = Creating connection...
+2026-02-22 13:28:57,047 - INFO = Running run_schema.py
+2026-02-22 13:28:57,062 - INFO = Migration process completed
+                 Versions loaded: ['003', '002', '006', '001', '004'] from ['001_create_table.sql', '002_add_loaded_at_column.sql.sql', '003_alter_datatype_motivation.sql', '004_fix_constraint_error.sql', '006_fix_datetime_name.sql']
+2026-02-22 13:28:57,077 - INFO = Members inserted
+2026-02-22 13:28:57,097 - INFO = Loaded_at values inserted
+2026-02-22 13:29:08,969 - INFO = Start of program and logger
+2026-02-22 13:29:08,970 - INFO = Connecting to the PostgreSQL
+2026-02-22 13:29:09,019 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 13:29:09,020 - INFO = Database connection closed
+2026-02-22 13:29:09,020 - INFO = Creating connection...
+2026-02-22 13:29:09,071 - INFO = Running run_schema.py
+2026-02-22 13:29:09,080 - INFO = Applying migration 005_fix_datetime_name.sql
+2026-02-22 13:29:09,082 - ERROR = Migration 005 failed column "datetime_creatd" does not exist
+
+2026-02-22 13:29:09,083 - ERROR = Pipeline failed: column "datetime_creatd" does not exist
+
+2026-02-22 13:35:43,461 - INFO = Start of program and logger
+2026-02-22 13:35:43,462 - INFO = Connecting to the PostgreSQL
+2026-02-22 13:35:43,611 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 13:35:43,611 - INFO = Database connection closed
+2026-02-22 13:35:43,611 - INFO = Creating connection...
+2026-02-22 13:35:43,685 - INFO = Running run_schema.py
+2026-02-22 13:35:43,723 - INFO = Migration process completed
+                 Versions loaded: ['002', '004', '001', '003', '005'] from ['001_create_table.sql', '002_add_loaded_at_column.sql', '003_alter_datatype_motivation.sql', '004_fix_constraint_error.sql', '005_fix_datetime_name.sql']
+2026-02-22 13:35:43,760 - INFO = Members inserted
+2026-02-22 13:35:43,781 - INFO = Loaded_at values inserted

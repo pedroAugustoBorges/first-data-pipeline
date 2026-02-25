@@ -1,0 +1,18 @@
+2026-02-22 13:34:29,340 - INFO = Start of program and logger
+2026-02-22 13:34:29,340 - INFO = Connecting to the PostgreSQL
+2026-02-22 13:34:29,607 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 13:34:29,609 - INFO = Database connection closed
+2026-02-22 13:34:29,611 - INFO = Creating connection...
+2026-02-22 13:34:29,758 - INFO = Running run_schema.py
+2026-02-22 13:34:29,792 - INFO = Migration process completed
+                 Versions loaded: ['005', '003', '001', '002', '004'] from ['001_create_table.sql', '002_add_loaded_at_column.sql', '003_alter_datatype_motivation.sql', '004_fix_constraint_error.sql', '005_fix_datetime_name.sql']
+2026-02-22 13:34:29,795 - ERROR = Pipeline failed: [Errno 2] No such file or directory: 'data/raw/data.json'
+2026-02-22 13:35:11,245 - INFO = Start of program and logger
+2026-02-22 13:35:11,245 - INFO = Connecting to the PostgreSQL
+2026-02-22 13:35:11,338 - INFO = ('PostgreSQL 18.1 (Debian 18.1-1.pgdg13+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit',)
+2026-02-22 13:35:11,338 - INFO = Database connection closed
+2026-02-22 13:35:11,339 - INFO = Creating connection...
+2026-02-22 13:35:11,397 - INFO = Running run_schema.py
+2026-02-22 13:35:11,412 - INFO = Migration process completed
+                 Versions loaded: ['002', '004', '003', '005', '001'] from ['001_create_table.sql', '002_add_loaded_at_column.sql', '003_alter_datatype_motivation.sql', '004_fix_constraint_error.sql', '005_fix_datetime_name.sql']
+2026-02-22 13:35:11,413 - ERROR = Pipeline failed: [Errno 2] No such file or directory: 'data/raw/data.json'

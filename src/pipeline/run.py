@@ -19,7 +19,8 @@ def main():
             
             
         logging.info("Members inserted")
-    
+        conn.commit()   
+        
         load_loaded_at(conn)
         
         logging.info("Loaded_at values inserted")
