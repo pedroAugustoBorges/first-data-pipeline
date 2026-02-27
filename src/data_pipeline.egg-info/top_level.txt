@@ -2,5 +2,6 @@ core
 db
 extract
 ingestion
+load
 pipeline
 transform

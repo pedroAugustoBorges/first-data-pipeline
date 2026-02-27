@@ -14,7 +14,9 @@ src/extract/extract_json.py
 src/ingestion/__init__.py
 src/ingestion/create_mock_date.py
 src/ingestion/get_data.py
+src/load/load.py
 src/pipeline/__init__.py
 src/pipeline/run.py
 src/pipeline/run_schema.py
 src/transform/enrich.py
+tests/test_extract.py
